@@ -8,3 +8,14 @@
 0.0.0.0 thanksgivingdelights.com
 0.0.0.0 ak.wheceelt.net
 0.0.0.0 prvc.io
+0.0.0.0 endowmentoverhangutmost.com
+0.0.0.0 blurbreimbursetrombone.com
+0.0.0.0 acscdn.com
+0.0.0.0 23163.thanksgivingdelights.com/v2/a/pop/215438
+0.0.0.0 thanksgivingdelights.com/v2
+0.0.0.0 thanksgivingdelights.com/v2/a/pop/
+0.0.0.0 bullionglidingscuttle.com
+0.0.0.0 jsdelivr.net
+0.0.0.0 cdn.jsdelivr.net
+0.0.0.0 wpadmngr.com
+0.0.0.0 js.wpadmngr.com
