@@ -5,3 +5,5 @@
 0.0.0.0 endowmentoverhangutmost.com
 0.0.0.0 coosync.com
 0.0.0.0 iolo.com
+0.0.0.0 thanksgivingdelights.com
+0.0.0.0 ak.wheceelt.net
