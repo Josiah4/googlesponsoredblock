@@ -17,5 +17,4 @@
 0.0.0.0 bullionglidingscuttle.com
 0.0.0.0 jsdelivr.net
 0.0.0.0 cdn.jsdelivr.net
-0.0.0.0 wpadmngr.com
-0.0.0.0 js.wpadmngr.com
+0.0.0.0 xhusamxabox.com
