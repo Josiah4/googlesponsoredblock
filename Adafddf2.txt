@@ -3,7 +3,7 @@
 0.0.0.0 fo.laccaiccrusta.com
 0.0.0.0 blurbreimbursetrombone.com
 0.0.0.0 endowmentoverhangutmost.com
-0.0.0.0 coosync.com
+0.0.0.0 xhusamxabox.com
 0.0.0.0 iolo.com
 0.0.0.0 thanksgivingdelights.com
 0.0.0.0 ak.wheceelt.net
@@ -17,4 +17,5 @@
 0.0.0.0 bullionglidingscuttle.com
 0.0.0.0 jsdelivr.net
 0.0.0.0 cdn.jsdelivr.net
-0.0.0.0 xhusamxabox.com
+0.0.0.0 coosync.com
+0.0.0.0 app-va.tiktokv.com
