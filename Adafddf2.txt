@@ -28,7 +28,8 @@
 0.0.0.0 capndr.com
 0.0.0.0 multstorage.com
 0.0.0.0 js.wpadmngr.com
-0.0.0.0 dracatwpeajg.com 
+0.0.0.0 dracatwpeajg.com
+0.0.0.0 www.wytzwz.com
 0.0.0.0 track.trackingpclick2.info
 0.0.0.0 redirecttrack.us.
 0.0.0.0 nffsrv191.us.
