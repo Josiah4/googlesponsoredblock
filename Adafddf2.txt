@@ -19,3 +19,10 @@
 0.0.0.0 cdn.jsdelivr.net
 0.0.0.0 coosync.com
 0.0.0.0 app-va.tiktokv.com
+0.0.0.0 6ac78725fd.com
+0.0.0.0 701ad069e2.com
+0.0.0.0 appointeeivyspongy.com
+0.0.0.0 metricswpsh.com
+0.0.0.0 tubecup.net
+0.0.0.0 capndr.com
+0.0.0.0 multstorage.com
